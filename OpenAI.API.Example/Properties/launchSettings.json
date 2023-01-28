@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "OpenAI.API.Example": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
